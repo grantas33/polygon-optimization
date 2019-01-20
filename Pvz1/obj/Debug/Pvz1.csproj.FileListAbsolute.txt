@@ -1,0 +1,155 @@
+E:\DA\MODULIAI\P175B123_OP2\programos\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+E:\DA\MODULIAI\P175B123_OP2\programos\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+E:\DA\MODULIAI\P175B123_OP2\programos\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+E:\DA\MODULIAI\P175B123_OP2\programos\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+E:\DA\MODULIAI\P175B123_OP2\programos\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+E:\DA\MODULIAI\P175B123_OP2\programos\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.Cache
+E:\DA\MODULIAI\P175B123_OP2\programos\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+E:\DA\MODULIAI\P175B123_OP2\programos\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+E:\DA\MODULIAI\P175B123_OP2\programos\Pvz1\Pvz1\obj\Debug\Pvz1.csprojResolveAssemblyReference.cache
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\obj\Debug\Pvz1.csprojResolveAssemblyReference.cache
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.Cache
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\obj\Debug\Pvz1.csprojResolveAssemblyReference.cache
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.Cache
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\obj\Debug\Pvz1.csprojResolveAssemblyReference.cache
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.Cache
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.dll
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.xml
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.dll
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.xml
+G:\AndriusK\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+G:\AndriusK\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+G:\AndriusK\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+G:\AndriusK\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.dll
+G:\AndriusK\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.xml
+G:\AndriusK\Pvz1\Pvz1\obj\Debug\Pvz1.csprojResolveAssemblyReference.cache
+G:\AndriusK\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+G:\AndriusK\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+G:\AndriusK\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.Cache
+G:\AndriusK\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+G:\AndriusK\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+Z:\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+Z:\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+Z:\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+Z:\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.dll
+Z:\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.xml
+Z:\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.csprojAssemblyReference.cache
+Z:\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+Z:\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+Z:\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.cache
+Z:\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CoreCompileInputs.cache
+Z:\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CopyComplete
+Z:\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+Z:\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+\\dfs\home\14\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+\\dfs\home\14\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+\\dfs\home\14\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+\\dfs\home\14\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.dll
+\\dfs\home\14\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.xml
+\\dfs\home\14\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.csprojAssemblyReference.cache
+\\dfs\home\14\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+\\dfs\home\14\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+\\dfs\home\14\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.cache
+\\dfs\home\14\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CoreCompileInputs.cache
+\\dfs\home\14\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CopyComplete
+\\dfs\home\14\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+\\dfs\home\14\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.dll
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.xml
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.csprojAssemblyReference.cache
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.cache
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CoreCompileInputs.cache
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CopyComplete
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz2\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.dll
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.xml
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\obj\Debug\Pvz1.csprojAssemblyReference.cache
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.cache
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CoreCompileInputs.cache
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CopyComplete
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+Z:\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+Z:\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+Z:\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+Z:\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.dll
+Z:\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.xml
+Z:\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\obj\Debug\Pvz1.csprojAssemblyReference.cache
+Z:\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+Z:\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+Z:\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.cache
+Z:\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CoreCompileInputs.cache
+Z:\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CopyComplete
+Z:\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+Z:\home\Skaitiniai metodai\Pvz3\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+Z:\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\obj\Debug\Pvz1.csprojAssemblyReference.cache
+Z:\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+Z:\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+Z:\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.cache
+Z:\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CoreCompileInputs.cache
+Z:\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+Z:\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+Z:\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+Z:\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+Z:\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+Z:\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.dll
+Z:\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.xml
+Z:\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CopyComplete
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.dll
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.xml
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\obj\Debug\Pvz1.csprojAssemblyReference.cache
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.cache
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CoreCompileInputs.cache
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CopyComplete
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+\\DFS2\14_Home$\gragad\home\Skaitiniai metodai\Pvz4\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+C:\Users\Vartotojas\Desktop\skaitiniu_metodu_p\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+C:\Users\Vartotojas\Desktop\skaitiniu_metodu_p\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+C:\Users\Vartotojas\Desktop\skaitiniu_metodu_p\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.cache
+C:\Users\Vartotojas\Desktop\skaitiniu_metodu_p\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\skaitiniu_metodu_p\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+C:\Users\Vartotojas\Desktop\skaitiniu_metodu_p\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+C:\Users\Vartotojas\Desktop\skaitiniu_metodu_p\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+C:\Users\Vartotojas\Desktop\skaitiniu_metodu_p\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.dll
+C:\Users\Vartotojas\Desktop\skaitiniu_metodu_p\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.xml
+C:\Users\Vartotojas\Desktop\skaitiniu_metodu_p\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CopyComplete
+C:\Users\Vartotojas\Desktop\skaitiniu_metodu_p\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+C:\Users\Vartotojas\Desktop\skaitiniu_metodu_p\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+C:\Users\Vartotojas\Desktop\skaitiniu_metodu_p\Pvz1\Pvz1\obj\Debug\Pvz1.csprojAssemblyReference.cache
